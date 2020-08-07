@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/search.png</file>
+        <file>img/logo.jpg</file>
+        <file>img/Fondo1.png</file>
+        <file>img/fondo2.webp</file>
+        <file>img/fondoregister.jpg</file>
+        <file>img/register.jpg</file>
+        <file>img/azukl.jpg</file>
+        <file>img/transparente.png</file>
+        <file>img/clientes.png</file>
+    </qresource>
+    <qresource prefix="/peliculas">
+        <file>peliculas/pitufos.jpg</file>
+    </qresource>
+</RCC>
